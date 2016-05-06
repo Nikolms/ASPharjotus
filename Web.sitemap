@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="Aloitus.aspx" title="Aloitus"  description="Oletus sivu">
+
+      
+      <siteMapNode url="LomakeEka.aspx" title="LomakeYksi"  description="" />
+        
+      <siteMapNode url="LomakeToka.aspx" title="LomakeKaksi"  description="" />
+
+      <siteMapNode url="LomakeKolmas.aspx" title="LomakeKolme"  description="" />
+      
+      <siteMapNode url="SessionTarkastus.aspx" title="Session tiedot"  description="" />
+
+      <siteMapNode url="TietoKantaManager.aspx" title="Tietokanta toiminnot"  description="" />
+
+
+
+    </siteMapNode>
+</siteMap>

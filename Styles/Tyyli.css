@@ -1,0 +1,10 @@
+.TextBoxCSS, .LabelCSS
+{
+    float: left;
+}
+.LabelCSS
+{
+    clear: left;
+    background-color: Aqua;
+    margin-right: 10px;
+}
